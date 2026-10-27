@@ -4,6 +4,29 @@ A portfolio of two **self-directed learning simulations** demonstrating foundati
 
 > **Important:** All organizations, vendors, records, dates, outcomes, findings, risk scores, owners, and policy criteria in this repository are fictional and synthetic. These projects are not client engagements, actual audits, assurance opinions, or evidence of work performed for an employer.
 
+## Professional Profile
+
+**Nishan Khadgi — Technology Risk Consultant**
+
+Technology risk and cybersecurity GRC professional with approximately 10 months of combined professional and freelance project experience in IT risk assessments, cybersecurity compliance, IT auditing, and control testing. Focus areas include ITGC/ITAC, risk registers and control matrices, evidence review, remediation tracking, third-party risk assessment, and compliance reporting.
+
+**Core skills**
+- **IT risk and governance:** IT Risk Assessment, Enterprise Risk Management, COBIT, COSO, Risk Control Matrices (RCM), risk scoring and registers
+- **IT audit and controls:** ITGC, ITAC, SOX 404, access controls, change management, segregation of duties, control testing
+- **Cybersecurity and compliance:** NIST CSF, NIST SP 800-53, ISO 27001/27005, CIS Controls, SOC 2, vulnerability assessment, data privacy
+- **Cloud and infrastructure:** AWS, Microsoft Azure, cloud security, IAM/PAM, CIS Benchmarks, disaster recovery, business continuity
+- **Third-party risk:** TPRM, vendor due diligence, assurance evidence review, GDPR/HIPAA concepts, privacy impact assessment
+- **Tools and analytics:** ServiceNow GRC, RSA Archer, OneTrust, AuditBoard, Advanced Excel, Power BI, SQL
+
+**Experience highlights from my resume**
+- **ScaleAI, USA — Technology Risk Consultant (Oct 2026–Present):** Supported COBIT-based assessments across three enterprise applications; maintained risk register/RCM records for 15 risks; reviewed ITGC/ITAC documentation; documented six ISO 27001 control observations; and tracked remediation through ServiceNow GRC/RSA Archer with Power BI and Excel reporting.
+- **Lumen Tech., India — Cybersecurity Risk Assessment & Third-Party Compliance Review (May–Jul 2022):** Reviewed security documentation across four IT systems and vendor assurance evidence, recorded eight potential compliance gaps, and maintained a vendor risk register and reporting.
+- **TCS, India — IT General Controls Risk Assessment & Compliance Review (Jan–Apr 2022):** Reviewed ITGC across three business applications, documented 12 control observations, and prepared remediation recommendations and Power BI reporting.
+
+**Education:** B.S. in Computer Security, State University of New York (SUNY) at Plattsburgh, NY, USA (Aug 2022–May 2026).
+
+**Job simulations:** Cloud Platform Job Simulation; Cybersecurity Consulting Simulation; Cybersecurity Job Simulation.
+
 ## Projects at a glance
 
 | Project | Purpose | Tools | Contents |
